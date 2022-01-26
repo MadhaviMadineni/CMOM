@@ -1,3 +1,10 @@
+For Reference : Added screeonshots of the result
+
+
+![Result](https://user-images.githubusercontent.com/67954544/151103672-8d99a380-7459-4f36-8fd4-b0d6fe898a37.jpeg)
+![click action](https://user-images.githubusercontent.com/67954544/151103681-1b468caa-c95e-4ee4-b432-18ae56e66ddd.jpeg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
